@@ -14,17 +14,6 @@ This mini project consists of five Jupyter notebooks:
 
 Each notebook builds progressively on core ML concepts like hypothesis formulation, cost minimization via gradient descent, feature scaling, polynomial expansion, model evaluation, and overfitting analysis.
 
-## Files
-
-Mini_Project_00_[Sashini Jayakodi]/
-├── notebooks/
-│   ├── 1_linear_regression_single_feature.ipynb
-│   ├── 2_polynomial_regression_single_feature.ipynb
-│   ├── 3_linear_regression_full_dataset.ipynb
-│   ├── 4_polynomial_regression_full_dataset.ipynb
-│   └── 5_sklearn_comparison.ipynb
-└── README.md
-
 ## Dataset
 
 The dataset includes the following columns:
