@@ -143,3 +143,7 @@ The dataset includes the following columns:
 ## Conclusion
 
 This project was built to deepen the understanding of **linear and polynomial regression, logistic regression, and classification metrics**. Implementing each step manually helped reinforce concepts like gradient descent, feature scaling, and model generalization. The final benchmarking with Scikit-learn validated the correctness of the manual implementations and provided insights into threshold-based decision making and business impact.
+
+## Author
+
+Sashini Jayakodi — [LinkedIn](https://www.linkedin.com/in/sashinijayakodi39/)
